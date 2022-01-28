@@ -6,3 +6,15 @@ nltk(https://www.nltk.org/),
 flask (https://flask.palletsprojects.com/en/2.0.x/) 
 You can find the versions requirements in requirements.txt
 3- open vscode in your virtualenv or execute the program with the terminal from your virtualenv.
+
+
+**IMPORTANT**
+ALWAYS run Train.py before main.py AND PLEASE UNCOMMENT Line #14 and #17 the first time you run the program. Thanks!
+
+"
+import json
+#import nltk
+from nltk_utils import tokenize, stem, bag_of_word
+#nltk.download('punkt')
+import numpy as np
+"
