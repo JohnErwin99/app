@@ -18,3 +18,5 @@ from nltk_utils import tokenize, stem, bag_of_word
 #nltk.download('punkt')
 import numpy as np
 "
+WORKING DEMOVIDEO:
+https://trutel-my.sharepoint.com/:v:/g/personal/jerwin_iristel_com/EY88uS3nK6hPngqm76MG3S0BMSG9qnWZ65kxv-t5o8Vsag?e=3DWnCy
